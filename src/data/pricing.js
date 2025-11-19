@@ -92,7 +92,7 @@ export const pricingData = {
       title: "Proyecto Completo",
       description:
         "Elaboración integral del proyecto según la materia o temática requerida.",
-      price: "250.000",
+      price: "280.000",
       unit: "por proyecto",
       features: [
         "Organización y/o corrección de datos o contenido",
@@ -165,7 +165,7 @@ export const pricingData = {
       title: "Animación Compleja",
       description:
         "Pieza completa con composición avanzada y elementos 3D si se requieren.",
-      price: "500.000",
+      price: "550.000",
       unit: "por video",
       features: [
         "Duración 40–60 segundos",
@@ -308,7 +308,7 @@ export const pricingData = {
     {
       title: "Fullstack Ligero",
       description: "React + Node/Express",
-      price: "1'700.000",
+      price: "1'900.000",
       unit: "proyecto",
       features: [
         "Frontend React",
@@ -411,7 +411,7 @@ export const pricingData = {
     {
       title: "Proyecto Académico Completo",
       description: "Frontend o backend — según materia",
-      price: "150.000",
+      price: "180.000",
       unit: "entrega",
       features: [
         "Código completo",
@@ -486,7 +486,7 @@ export const pricingData = {
     {
       title: "Alta Fidelidad",
       description: "12 pantallas completas en Figma",
-      price: "350.000",
+      price: "400.000",
       unit: "pack",
       features: [
         "8-12 pantallas",
